@@ -1,0 +1,532 @@
+2026-02-25 16:54:49 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:07:52 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:07:58 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:08:34 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:08:44 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:08:48 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:08:50 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:08:58 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:09:01 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:09:03 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:17:00 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:17:20 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:17:31 [Auth-System] [31merror[39m: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Function.use (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\node_modules\router\index.js:385:11)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:17:36 [Auth-System] [31merror[39m: uncaughtException: a is not defined
+ReferenceError: a is not defined
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:12)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:13)
+2026-02-25 17:17:37 [Auth-System] [31merror[39m: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Function.use (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\node_modules\router\index.js:385:11)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:17:41 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:17:49 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:17:58 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:17:59 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:18:04 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:18:09 [Auth-System] [32minfo[39m: POST /
+2026-02-25 17:18:19 [Auth-System] [32minfo[39m: POST /
+2026-02-25 17:18:36 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:18:39 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:18:45 [Auth-System] [32minfo[39m: POST /contact
+2026-02-25 17:18:46 [Auth-System] [32minfo[39m: POST /contact
+2026-02-25 17:19:04 [Auth-System] [31merror[39m: uncaughtException: app.Router is not a function
+TypeError: app.Router is not a function
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:24:20)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:13)
+2026-02-25 17:19:24 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:19:35 [Auth-System] [31merror[39m: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Function.use (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\node_modules\router\index.js:385:11)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:19:35 [Auth-System] [31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'headers')
+TypeError: Cannot read properties of undefined (reading 'headers')
+    at exports.authenticateToken (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\middlewares\authenticateToken.js:6:28)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:30)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:20:15 [Auth-System] [31merror[39m: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Function.use (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\node_modules\router\index.js:385:11)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:20:15 [Auth-System] [31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'headers')
+TypeError: Cannot read properties of undefined (reading 'headers')
+    at exports.authenticateToken (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\middlewares\authenticateToken.js:6:28)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:30)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:20:51 [Auth-System] [31merror[39m: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Function.use (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\node_modules\router\index.js:385:11)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:20:51 [Auth-System] [31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'headers')
+TypeError: Cannot read properties of undefined (reading 'headers')
+    at exports.authenticateToken (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\middlewares\authenticateToken.js:6:28)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:30)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:20:52 [Auth-System] [31merror[39m: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Function.use (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\node_modules\router\index.js:385:11)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:20:52 [Auth-System] [31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'headers')
+TypeError: Cannot read properties of undefined (reading 'headers')
+    at exports.authenticateToken (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\middlewares\authenticateToken.js:6:28)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:30)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:20:54 [Auth-System] [31merror[39m: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Function.use (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\node_modules\router\index.js:385:11)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:20:54 [Auth-System] [31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'headers')
+TypeError: Cannot read properties of undefined (reading 'headers')
+    at exports.authenticateToken (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\middlewares\authenticateToken.js:6:28)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:30)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:21:09 [Auth-System] [31merror[39m: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Function.use (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\node_modules\router\index.js:385:11)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:21:09 [Auth-System] [31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'headers')
+TypeError: Cannot read properties of undefined (reading 'headers')
+    at exports.authenticateToken (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\middlewares\authenticateToken.js:6:28)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:30)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:21:16 [Auth-System] [31merror[39m: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Function.use (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\node_modules\router\index.js:385:11)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:21:16 [Auth-System] [31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'headers')
+TypeError: Cannot read properties of undefined (reading 'headers')
+    at exports.authenticateToken (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\middlewares\authenticateToken.js:6:28)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:30)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:24:23 [Auth-System] [31merror[39m: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Function.use (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\node_modules\router\index.js:385:11)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:24:23 [Auth-System] [31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'headers')
+TypeError: Cannot read properties of undefined (reading 'headers')
+    at exports.authenticateToken (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\middlewares\authenticateToken.js:6:28)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:30)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:24:30 [Auth-System] [31merror[39m: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Function.use (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\node_modules\router\index.js:385:11)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:24:30 [Auth-System] [31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'headers')
+TypeError: Cannot read properties of undefined (reading 'headers')
+    at exports.authenticateToken (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\middlewares\authenticateToken.js:6:28)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:30)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:24:33 [Auth-System] [31merror[39m: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Function.use (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\node_modules\router\index.js:385:11)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:24:33 [Auth-System] [31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'headers')
+TypeError: Cannot read properties of undefined (reading 'headers')
+    at exports.authenticateToken (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\middlewares\authenticateToken.js:6:28)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:30)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:24:35 [Auth-System] [31merror[39m: uncaughtException: argument handler is required
+TypeError: argument handler is required
+    at Function.use (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\node_modules\router\index.js:385:11)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:24:35 [Auth-System] [31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'headers')
+TypeError: Cannot read properties of undefined (reading 'headers')
+    at exports.authenticateToken (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\middlewares\authenticateToken.js:6:28)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:25:30)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+2026-02-25 17:25:58 [Auth-System] [31merror[39m: uncaughtException: Cannot access 'router' before initialization
+ReferenceError: Cannot access 'router' before initialization
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:26:21 [Auth-System] [31merror[39m: uncaughtException: Cannot access 'router' before initialization
+ReferenceError: Cannot access 'router' before initialization
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:27:05 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:27:07 [Auth-System] [31merror[39m: uncaughtException: Cannot access 'router' before initialization
+ReferenceError: Cannot access 'router' before initialization
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:23:17)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:28:01 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:28:08 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:28:14 [Auth-System] [32minfo[39m: POST /api/
+2026-02-25 17:28:14 [Auth-System] [33mwarn[39m: Authentication failed - No token provided
+2026-02-25 17:28:22 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:28:26 [Auth-System] [32minfo[39m: POST /api/
+2026-02-25 17:28:26 [Auth-System] [33mwarn[39m: Authentication failed - No token provided
+2026-02-25 17:28:29 [Auth-System] [32minfo[39m: POST /
+2026-02-25 17:28:29 [Auth-System] [33mwarn[39m: Authentication failed - No token provided
+2026-02-25 17:28:33 [Auth-System] [32minfo[39m: POST /contact
+2026-02-25 17:28:33 [Auth-System] [33mwarn[39m: Authentication failed - No token provided
+2026-02-25 17:28:55 [Auth-System] [32minfo[39m: POST /register
+2026-02-25 17:28:55 [Auth-System] [32minfo[39m: Register attempt: Hilma61@gmail.com
+2026-02-25 17:28:55 [Auth-System] [32minfo[39m: User registered successfully ID: 3d503dd4-8772-40c5-827c-23f1f0100796
+2026-02-25 17:28:56 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:29:38 [Auth-System] [32minfo[39m: POST /login
+2026-02-25 17:29:38 [Auth-System] [32minfo[39m: Login attempt: aditya@test.com
+2026-02-25 17:29:38 [Auth-System] [32minfo[39m: User logged in successfully: aditya@test.com
+2026-02-25 17:29:51 [Auth-System] [32minfo[39m: POST /
+2026-02-25 17:29:51 [Auth-System] [32minfo[39m: Authentication successful for user
+2026-02-25 17:30:22 [Auth-System] [31merror[39m: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:21:1)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:30:26 [Auth-System] [31merror[39m: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:21:1)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:30:29 [Auth-System] [31merror[39m: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:23:1)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:30:34 [Auth-System] [31merror[39m: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:29:1)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:30:35 [Auth-System] [31merror[39m: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:29:1)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:30:39 [Auth-System] [31merror[39m: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:38:14)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:30:40 [Auth-System] [31merror[39m: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:38:14)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:30:43 [Auth-System] [31merror[39m: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:38:15)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:30:45 [Auth-System] [31merror[39m: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:38:14)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:30:49 [Auth-System] [31merror[39m: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:46:24)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:30:56 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:30:58 [Auth-System] [32minfo[39m: POST /
+2026-02-25 17:30:58 [Auth-System] [32minfo[39m: Authentication successful for user
+2026-02-25 17:31:05 [Auth-System] [32minfo[39m: POST /
+2026-02-25 17:31:05 [Auth-System] [32minfo[39m: Authentication successful for user
+2026-02-25 17:31:38 [Auth-System] [32minfo[39m: Server Running at port 3000.
+2026-02-25 17:31:46 [Auth-System] [31merror[39m: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\app.js:21:1)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+    at Module.require (node:internal/modules/cjs/loader:1463:12)
+    at require (node:internal/modules/helpers:147:16)
+    at Object.<anonymous> (C:\Users\Rahul\OneDrive\Desktop\InternShip\NodeExpress\DemoPractice\Auth-System\server.js:1:15)
+2026-02-25 17:31:51 [Auth-System] [32minfo[39m: Server Running at port 3000.
