@@ -1,53 +1,5 @@
 [
   {
-    "id": "afdc5470-127a-463d-82d5-352597d616f6",
-    "name": "Aditya Dive",
-    "email": "aditya@test.com",
-    "password": "$2b$10$s3hIpwCmh94BEKfOZSj7cOZjd6nHqSLqzhC1flwiCGg1SxlRqW2Wu"
-  },
-  {
-    "id": "49339391-2329-4280-8e7c-bed37314f2e3",
-    "name": "Aditya Gore",
-    "email": "adityag@test.com",
-    "password": "$2b$10$s6h2vDXaKfG/6xBT4gqMxej/KaIJtr4J3MFblJRAPyzxn.f9FL3nC"
-  },
-  {
-    "id": "fa337b36-e7d7-4bab-83fa-53565f79127e",
-    "name": "rahul",
-    "email": "rahul@example.com",
-    "password": "$2b$10$TU5xlm6Ttzq7PIxNiaPH0ukRkUKtClcgd6A1Z093Pp8fyPe1U2G7q"
-  },
-  {
-    "id": "d45bb829-40cb-4313-855b-c34832da4f27",
-    "name": "Harshad Dhongade",
-    "email": "harshad@test.com",
-    "password": "$2b$10$lJ.nssQnvH0kvFIGeozOX.0BCEnS4ehWAYj/jPpka237jTDd9Pk/S"
-  },
-  {
-    "id": "136f09a8-8c62-40b0-8217-d48b189bf7fe",
-    "name": "rAHUL HOWALE",
-    "email": "howale@gmial.com",
-    "password": "$2b$10$rmrzuZ4qHZveTWOErBGaXOEBZCPOytY.uYWHfyHtNeUHJ8KAXphYS"
-  },
-  {
-    "id": "7c3ed1c3-7bf7-4cf8-a473-501a1161a392",
-    "name": "bdjahdjah",
-    "email": "bdjahdjah@gmail.com",
-    "password": {}
-  },
-  {
-    "id": "9cd733a2-3a4f-49f6-ae0b-3dc620dd975f",
-    "name": "WeldonWiza",
-    "email": "{{randomEmail}}",
-    "password": {}
-  },
-  {
-    "id": "2ece6359-dd81-43c3-855a-d283e953d02b",
-    "name": "Nicola Keeling",
-    "email": "Margie.Roob@gmail.com",
-    "password": {}
-  },
-  {
     "id": "ec063af7-acca-435b-8a9f-47214046445f",
     "name": "Cletus Hintz",
     "email": "Vickie.Dooley@gmail.com",
