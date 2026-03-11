@@ -1,7 +1,7 @@
 const fs = require('fs/promises');
 
 exports.readUsers = async () => {
-    try{
+    try{    
         const user = await fs.readFile("./users.json","utf-8")
         return JSON.parse(user);
         }
